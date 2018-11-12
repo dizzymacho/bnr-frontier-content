@@ -1,6 +1,6 @@
 # The Frontier: How to Create a Screencast
 
-### Getting Started
+## Getting Started
 
 The purpose of this course is to introduce you to The Frontier and teach you our screencasts process. In the end, you'll have all the tools you need to create short, practical screencasts for The Frontier.  
 
