@@ -52,6 +52,8 @@ If you have any trouble getting started please message the course instructor.
 
 ## An Introduction to The Frontier
 
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/2O0K0Y1e3z2V1i0n0o1w/Image%202018-11-14%20at%208.09.58%20AM.png?X-CloudApp-Visitor-Id=2812380&v=5b78cb3c)
+
 ### What is The Frontier?
 
 [The Frontier](https://thefrontier.bignerdranch.com) is a screencast subscription product, intended to teach practical skills to professional developers, offering intermediate to advanced content.
@@ -78,7 +80,7 @@ There are 3 ways you can help on The Frontier:
 * Reviewing your teams oultines / scripts
 * Creating new ideas / topics and adding them to our pipeline
 * Writing Screencast Descriptions
-* Work on the platform - [Pivotal Tracker](#)
+* Work on the platform - [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2011023)
 
 We are currently looking for Screencast Wranglers for iOS and Android. Wranglers meet every other week to help create our content pipeline and discuss new ideas for The Frontier.
 
@@ -109,7 +111,7 @@ If you do not have a full week, you can schedule by hours.
 ## Defining the Screencast
 
 
-### What is a Screencast?
+### What is a Screencast? 🤔
 
 A screencast is a digital recording of computer screen output, also known as a video screen capture, often containing audio narration. The term screencast compares with the related term screenshot; whereas screenshot generates a single picture of a computer screen, a screencast is essentially a movie of the changes over time that a user sees on a computer screen, enhanced with audio narration.  
 
@@ -183,12 +185,12 @@ It is critical we do not use this time for self-learning as it will show. And it
 
 We have a pipeline of topics gathers into Google Sheets. This is a list of approved topics that should help get started. If you have any new ideas, add them to the sheet.  
 
-* iOS
-* Android
-* Web
-* Design
+* [iOS](https://docs.google.com/spreadsheets/d/1FzO0_NztoZQgQ76W_VDo1ZEM_pdbDJIXrd_xQF7BwOU/edit#gid=0)
+* [Android](https://docs.google.com/spreadsheets/d/1ytR9EYGJvIda3sB9r8Ih25dT98Hee9ci90onhanA7bY/edit#gid=0)
+* [Web](https://docs.google.com/spreadsheets/d/1s4nSbeXSzAw3423fVHOTBvW4_BwLBretWMX7R2yj6S0/edit#gid=680817060)
+* [Design](https://docs.google.com/spreadsheets/d/1_8vKoox5cf8eX4HuwMl2wmtM-ImV_tP6_Q_N9xyeCgg/edit#gid=0)
 
-<i>Note: They've gotten a little messy and if you have any questions just contact @imac (Israel Machovec) on Slack. I'd like to find a better way to do this for us.</i>
+<i>Note: They've gotten a little messy and if you have any questions just contact @imac (Israel Machovec) on Slack.</i>
 
 #### Some questions to ask before getting started...
 Before choosing a topic, get your mind right by asking yourself a few questions.   
@@ -333,6 +335,8 @@ Make sure the levels are good. In terms of QuickTime's level meter, shoot for:
 * 90-95% on the loud.
 * Never hit 100%!
 
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/070R1O2U3Y1h2K103c1C/Nrf9Su5nu_u9iAwH.gif?X-CloudApp-Visitor-Id=2812380&v=8bed7379)
+
 It'll clip/distort and sound horrible. (If you've got a meter with numbers, aim to peak between -12dB and -6dB.)
 
 #### Record Your Audio
@@ -445,6 +449,10 @@ In your folder you should have the following files:
   * Pro tip: Some of our more popular videos have a "Start" and "Finish" solution file so the user can follow along.
 * Description File
   * Example - [Minimizing Bundle Sizes in React](https://docs.google.com/document/d/1qiBymXV9I_Fez2NlKAQMHRVhnuuBbH5NwuGq9gVJkQo/edit)
+
+<strong>Example Image:</strong>  
+
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/3m1c3a162W0s2h1S3Y3p/Image%202018-11-14%20at%208.21.28%20AM.png?X-CloudApp-Visitor-Id=2812380&v=066c2665)
 
 ### Submitting Your Screencast for Editing
 
