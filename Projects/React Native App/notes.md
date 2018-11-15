@@ -1,3 +1,32 @@
+
+### 2018-11-15
+
+* Let's determine functionality for the MVP  
+* We then need to figure out sprints, and what we want to accomplish with each sprint.  
+* We'll figure out screencast topics during the sprints.
+* Scott suggesting off of front end masters ( Israel look at that)
+* Having the main list with screencasts.   
+* Login/Sign up.  
+* Searching needs to be good.  
+* Bookmarking List  
+* Metrics tracking, what are people doing.  
+* Just use the Vimeo API or does Frontier API  
+* Sentry - tracks issues  
+* Fastlane - Build automation tool for android and iOS
+* Testing - talk to Josh about that.
+
+### Possible content
+* Screencasts
+* blog posts from screencasts
+* between 2 nerds episode
+
+### Next Steps
+* Israel create repo
+* Put requirements together for MVP
+* Get people on board
+
+---
+
 ### 2018-11-8
 
 Scott Burton and Israel Machovec discussed making a React Native mobile app for The Frontier. While creating a mobile app for The Frontier isn't solving a high priority problem, creating content for React Native is something we're interested in exploring.
